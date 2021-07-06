@@ -981,7 +981,7 @@ a:focus {
   color: #666;
 }
 .page.lists-show {
-  min-height: 100vh;
+  min-height: calc(100vh - 2em);
   background: white;
 }
 .page.lists-show nav {
